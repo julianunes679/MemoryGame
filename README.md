@@ -67,7 +67,7 @@ O estado da aplicação é controlado por variáveis globais:
 ---
 
 ## Como executar
-git clone https://github.com/
+git clone [https://github.com/](https://github.com/julianunes679/MemoryGame)
 cd 
 Abra o arquivo index.html no navegador.
 
