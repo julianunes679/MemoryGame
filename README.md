@@ -73,16 +73,5 @@ Abra o arquivo index.html no navegador.
 
 ---
 
-### Possíveis Melhorias 
-Animação ao virar cartas
-Responsividade (mobile)
-Timer de jogo
-Sistema de pontuação
-Níveis de dificuldade
-Persistência de ranking
-
-
----
-
 ### Observações
 Projeto desenvolvido sem uso de frameworks para reforço de fundamentos de JavaScript e manipulação direta do DOM.
